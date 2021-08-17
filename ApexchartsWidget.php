@@ -53,7 +53,7 @@ class ApexchartsWidget extends Widget
 
         ApexchartsWidgetAsset::register($this->getView());
 
-        $id = json_encode($this->getId());
+        $id = $this->id == 'apexcharts-widget' ? json_encode($this->getId()) : json_encode($this->id);
         $chartOptions = Json::encode($this->chartOptions);
         $series = json_encode($this->series);
         $type = json_encode($this->type);
