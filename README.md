@@ -28,7 +28,7 @@ to the require section of your composer.json file.
 Usage
 --
 
-Add `echo \onmotion\apexcharts\ApexchartsWidget::widget([])` 
+Add `echo \mandachuvamg\apexcharts\ApexchartsWidget::widget([])` 
 with necessary options in the view file.
 
 Options
