@@ -78,7 +78,7 @@ $series = [
     ],
 ];
 
-echo \onmotion\apexcharts\ApexchartsWidget::widget([
+echo \mandachuvamg\apexcharts\ApexchartsWidget::widget([
     'type' => 'bar', // default area
     'height' => '400', // default 350
     'width' => '500', // default 100%
