@@ -1,14 +1,14 @@
 # Yii2 charts widget
 Yii2 charts widget - wrapper for the [ApexCharts.js](https://apexcharts.com).
 
-[![Latest Stable Version](https://poser.pugx.org/onmotion/yii2-widget-apexcharts/v/stable)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
-[![Total Downloads](https://poser.pugx.org/onmotion/yii2-widget-apexcharts/downloads)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
-[![Monthly Downloads](https://poser.pugx.org/onmotion/yii2-widget-apexcharts/d/monthly)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
-[![License](https://poser.pugx.org/onmotion/yii2-widget-apexcharts/license)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
+[![Latest Stable Version](https://poser.pugx.org/mandachuvamg/yii2-widget-apexcharts/v/stable)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
+[![Total Downloads](https://poser.pugx.org/mandachuvamg/yii2-widget-apexcharts/downloads)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
+[![Monthly Downloads](https://poser.pugx.org/mandachuvamg/yii2-widget-apexcharts/d/monthly)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
+[![License](https://poser.pugx.org/mandachuvamg/yii2-widget-apexcharts/license)](https://packagist.org/packages/mandachuvamg/yii2-widget-apexcharts)
 
 
-![fluent](https://raw.githubusercontent.com/onmotion/yii2-widget-apexcharts/docs/docs/apexexample.gif)
-![fluent](https://raw.githubusercontent.com/onmotion/yii2-widget-apexcharts/docs/docs/apexexample2.gif)
+![fluent](https://raw.githubusercontent.com/mandachuvamg/yii2-widget-apexcharts/docs/docs/apexexample.gif)
+![fluent](https://raw.githubusercontent.com/mandachuvamg/yii2-widget-apexcharts/docs/docs/apexexample2.gif)
 
 For more examples see [ApexCharts.js demos](https://apexcharts.com/javascript-chart-demos/)
 
