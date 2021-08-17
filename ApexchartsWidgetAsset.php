@@ -5,7 +5,7 @@
  * @package yii2-widget-apexcharts
  */
 
-namespace onmotion\apexcharts;
+namespace mandachuvamg\apexcharts;
 
 class ApexchartsWidgetAsset extends \yii\web\AssetBundle
 {
