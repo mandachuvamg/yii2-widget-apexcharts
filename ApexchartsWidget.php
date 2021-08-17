@@ -5,7 +5,7 @@
  * @package yii2-widget-apexcharts
  */
 
-namespace onmotion\apexcharts;
+namespace mandachuvamg\apexcharts;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
